@@ -4,7 +4,7 @@ import com.aallam.openai.api.model.ModelId
 import com.aallam.openai.client.OpenAI
 import kotlin.system.exitProcess
 
-const val OPEN_AI_TOKEN = "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"
+const val OPEN_AI_TOKEN = "<enter-secret>"
 const val OPEN_AI_MODEL = "ada"
 
 suspend fun main(args: Array<String>) {
